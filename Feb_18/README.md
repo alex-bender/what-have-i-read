@@ -42,3 +42,9 @@ date: Jun 14, 2017
 summary:
  A good walkthrough of the django app, start from tinketing the settings, end with setting up different levels of cache.
 
+title: Putting breakpoints to HTML templates in Python
+url: https://opensourcehacker.com/2013/05/16/putting-breakpoints-to-html-templates-in-python/
+date: 2013-05-16
+tags: django, python, debug
+summary:
+ Describes how to use pdb from django template + few simple commands for printing context.
