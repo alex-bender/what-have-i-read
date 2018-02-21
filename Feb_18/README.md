@@ -68,3 +68,11 @@ company: hackerearth
 tags: python, ast, django, debug
 summary:
  How to implement SQL queries profiler for django using python's AST module.
+ 
+title: Zero Downtime, Instant Deployment and Rollback
+url: https://www.ebayinc.com/stories/blogs/tech/zero-downtime-instant-deployment-and-rollback/
+date: Nov 21, 2013
+company: ebay
+tags: deployment
+summary:
+ Short article about zero downtime deployment, problems and possible ways to solve them.
